@@ -1,0 +1,12 @@
+G:\thermal_camera\merge\Common\bin\Debug\Common.dll
+G:\thermal_camera\merge\Common\bin\Debug\Common.pdb
+G:\thermal_camera\merge\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+G:\thermal_camera\merge\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+G:\thermal_camera\merge\Common\obj\Debug\Common.dll
+G:\thermal_camera\merge\Common\obj\Debug\Common.pdb
+E:\工作\红外热成像\merge\Common\bin\Debug\Common.dll
+E:\工作\红外热成像\merge\Common\bin\Debug\Common.pdb
+E:\工作\红外热成像\merge\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+E:\工作\红外热成像\merge\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\工作\红外热成像\merge\Common\obj\Debug\Common.dll
+E:\工作\红外热成像\merge\Common\obj\Debug\Common.pdb
